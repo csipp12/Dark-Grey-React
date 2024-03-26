@@ -1,0 +1,101 @@
+.mesmo-loading-screen-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.mesmo-loading-screen-mesmo-loading-screen {
+  width: 100%;
+  height: 932px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(100, 100, 100, 1);
+}
+.mesmo-loading-screen-screen {
+  top: 252px;
+  left: 30px;
+  width: 185px;
+  height: 1px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(100, 100, 100, 1);
+}
+.mesmo-loading-screen-screenshot20240312at1583 {
+  top: 355px;
+  left: 75px;
+  width: 279px;
+  height: 111px;
+  position: absolute;
+}
+.mesmo-loading-screen-text {
+  top: 476px;
+  left: 96px;
+  color: rgba(36, 33, 34, 1);
+  width: 258px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 110.00000238418579%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mesmo-loading-screen-frameiconcog {
+  top: 19px;
+  left: 364px;
+  width: 47.79174041748047px;
+  height: 50.56221389770508px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mesmo-loading-screen-vector {
+  top: 16.011367797851562px;
+  left: 14.625864028930664px;
+  width: 19px;
+  height: 19px;
+  position: absolute;
+}
+.mesmo-loading-screen-vector1 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 51px;
+  position: absolute;
+}
+.mesmo-loading-screen-frameiconcog1 {
+  top: 19px;
+  left: 364px;
+  width: 47.79174041748047px;
+  height: 50.56221389770508px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mesmo-loading-screen-vector2 {
+  top: 16.011367797851562px;
+  left: 14.625864028930664px;
+  width: 19px;
+  height: 19px;
+  position: absolute;
+}
+.mesmo-loading-screen-vector3 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 51px;
+  position: absolute;
+}

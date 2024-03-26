@@ -1,0 +1,320 @@
+.product-reco3-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.product-reco3-product-reco3 {
+  width: 100%;
+  height: 932px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(100, 100, 100, 1);
+}
+.product-reco3-screen {
+  top: 252px;
+  left: 30px;
+  width: 185px;
+  height: 1px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(100, 100, 100, 1);
+}
+.product-reco3-sv-giconactionundo {
+  top: 15px;
+  left: 56.009521484375px;
+  width: 41px;
+  height: 41px;
+  position: absolute;
+}
+.product-reco3-lildude {
+  top: 830px;
+  left: 183px;
+  width: 64px;
+  height: 94px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.product-reco3-lildude1 {
+  top: 0px;
+  left: 0px;
+  width: 64px;
+  height: 94px;
+  position: absolute;
+}
+.product-reco3-image3 {
+  top: 88px;
+  left: 36px;
+  width: 359px;
+  height: 244px;
+  position: absolute;
+  border-radius: 31px;
+}
+.product-reco3-group1 {
+  top: 347px;
+  left: 56px;
+  width: 332px;
+  height: 161px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.product-reco3-rectangle8 {
+  top: 0px;
+  left: 0px;
+  width: 332px;
+  height: 161px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.product-reco3-rectangle81 {
+  top: 0px;
+  left: 0px;
+  width: 332px;
+  height: 161px;
+  position: absolute;
+  border-color: rgba(100, 100, 100, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 19px;
+}
+.product-reco3-screenshot20240317at2382 {
+  top: 31px;
+  left: 26px;
+  width: 88px;
+  height: 90px;
+  position: absolute;
+  border-radius: 5px;
+}
+.product-reco3-text {
+  top: 31px;
+  left: 127px;
+  color: rgba(255, 255, 255, 1);
+  width: 195px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Bold;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 110.00000238418579%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-reco3-text02 {
+  top: 63px;
+  left: 127px;
+  color: rgba(255, 255, 255, 1);
+  width: 195px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Bold;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 110.00000238418579%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-reco3-text08 {
+  top: 94px;
+  left: 173px;
+  color: rgba(0, 0, 0, 1);
+  width: 104px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 110.00000238418579%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-reco3-rectangle7 {
+  top: 102px;
+  left: 180px;
+  width: 94px;
+  height: 55px;
+  position: absolute;
+  border-radius: 16px;
+}
+.product-reco3-group2 {
+  top: 508px;
+  left: 56px;
+  width: 332px;
+  height: 161px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.product-reco3-text12 {
+  top: 31px;
+  left: 127px;
+  color: rgba(255, 255, 255, 1);
+  width: 195px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Bold;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 110.00000238418579%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-reco3-text14 {
+  top: 63px;
+  left: 127px;
+  color: rgba(255, 255, 255, 1);
+  width: 195px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Bold;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 110.00000238418579%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-reco3-text20 {
+  top: 94px;
+  left: 173px;
+  color: rgba(0, 0, 0, 1);
+  width: 104px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 110.00000238418579%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-reco3-rectangle71 {
+  top: 102px;
+  left: 180px;
+  width: 94px;
+  height: 55px;
+  position: absolute;
+  border-radius: 16px;
+}
+.product-reco3-screenshot20240317at2471 {
+  top: 27px;
+  left: 29px;
+  width: 83px;
+  height: 90px;
+  position: absolute;
+  border-radius: 5px;
+}
+.product-reco3-group3 {
+  top: 669px;
+  left: 56px;
+  width: 332px;
+  height: 161px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.product-reco3-text24 {
+  top: 31px;
+  left: 127px;
+  color: rgba(255, 255, 255, 1);
+  width: 195px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Bold;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 110.00000238418579%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-reco3-text26 {
+  top: 63px;
+  left: 127px;
+  color: rgba(255, 255, 255, 1);
+  width: 195px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Bold;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 110.00000238418579%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-reco3-text32 {
+  top: 94px;
+  left: 173px;
+  color: rgba(0, 0, 0, 1);
+  width: 104px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 110.00000238418579%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-reco3-screenshot20240317at2511 {
+  top: 27px;
+  left: 26px;
+  width: 89px;
+  height: 90px;
+  position: absolute;
+  border-radius: 5px;
+}
+.product-reco3-rectangle72 {
+  top: 102px;
+  left: 180px;
+  width: 94px;
+  height: 55px;
+  position: absolute;
+  border-radius: 16px;
+}
+.product-reco3-sv-giconcog {
+  top: 15px;
+  left: 354px;
+  width: 48px;
+  height: 51px;
+  position: absolute;
+}

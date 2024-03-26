@@ -1,0 +1,100 @@
+.mesmos-button-page-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.mesmos-button-page-dummy-container {
+  width: 100%;
+  height: 900px;
+}
+.mesmos-button-page-mesmos-button-page {
+  width: 100%;
+  height: 932px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(100, 100, 100, 1);
+}
+.mesmos-button-page-screen {
+  top: 252px;
+  left: 30px;
+  width: 185px;
+  height: 1px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(100, 100, 100, 1);
+}
+.mesmos-button-page-ellipse1 {
+  top: 131px;
+  left: 10px;
+  width: 410px;
+  height: 410px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mesmos-button-page-ellipse11 {
+  top: 0px;
+  left: 0px;
+  width: 410px;
+  height: 410px;
+  position: absolute;
+  border-color: rgba(36, 33, 34, 1);
+  border-style: solid;
+  border-width: 3px;
+}
+.mesmos-button-page-screenshot20240312at1582 {
+  top: 280px;
+  left: 75px;
+  width: 279px;
+  height: 111px;
+  position: absolute;
+}
+.mesmos-button-page-sv-gicontinder {
+  top: 671px;
+  left: 265px;
+  width: 70px;
+  height: 95px;
+  position: absolute;
+}
+.mesmos-button-page-frameiconhistory {
+  top: 1024px;
+  left: -547px;
+  width: 86.85716247558594px;
+  height: 86.85716247558594px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mesmos-button-page-sv-giconcog {
+  top: 19px;
+  left: 354px;
+  width: 48px;
+  height: 51px;
+  position: absolute;
+}
+.mesmos-button-page-text {
+  top: 556px;
+  left: 170px;
+  color: rgba(217, 217, 217, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 110.00000238418579%;
+  font-stretch: normal;
+  text-decoration: none;
+}

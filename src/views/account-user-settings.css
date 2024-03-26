@@ -1,0 +1,394 @@
+.account-user-settings-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.account-user-settings-account-user-settings {
+  width: 100%;
+  height: 932px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(100, 100, 100, 1);
+}
+.account-user-settings-sv-giconactionundo {
+  top: 15px;
+  left: 56.009521484375px;
+  width: 41px;
+  height: 41px;
+  position: absolute;
+}
+.account-user-settings-text {
+  top: 84px;
+  left: -59px;
+  color: rgba(100, 100, 100, 1);
+  width: 379px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 110.00000238418579%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.account-user-settings-group4 {
+  top: 111px;
+  left: 16px;
+  width: 395px;
+  height: 31.000003814697266px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.account-user-settings-rectangle9 {
+  top: 9px;
+  left: 357.14312744140625px;
+  width: 20px;
+  height: 5px;
+  position: absolute;
+  border-radius: 12px;
+}
+.account-user-settings-rectangle10 {
+  top: 27.86751937866211px;
+  left: 354.4952697753906px;
+  width: 19px;
+  height: 6px;
+  position: absolute;
+  border-radius: 12px;
+}
+.account-user-settings-line1 {
+  top: 0px;
+  left: 0px;
+  width: 395px;
+  height: 1px;
+  position: absolute;
+}
+.account-user-settings-group5 {
+  top: 151px;
+  left: 16px;
+  width: 395px;
+  height: 31.000003814697266px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.account-user-settings-rectangle91 {
+  top: 9px;
+  left: 357.14312744140625px;
+  width: 20px;
+  height: 5px;
+  position: absolute;
+  border-radius: 12px;
+}
+.account-user-settings-rectangle101 {
+  top: 27.86751937866211px;
+  left: 354.4952697753906px;
+  width: 19px;
+  height: 6px;
+  position: absolute;
+  border-radius: 12px;
+}
+.account-user-settings-line11 {
+  top: 0px;
+  left: 0px;
+  width: 395px;
+  height: 1px;
+  position: absolute;
+}
+.account-user-settings-group6 {
+  top: 191px;
+  left: 16px;
+  width: 395px;
+  height: 31.000003814697266px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.account-user-settings-rectangle92 {
+  top: 9px;
+  left: 357.14312744140625px;
+  width: 20px;
+  height: 5px;
+  position: absolute;
+  border-radius: 12px;
+}
+.account-user-settings-rectangle102 {
+  top: 27.86751937866211px;
+  left: 354.4952697753906px;
+  width: 19px;
+  height: 6px;
+  position: absolute;
+  border-radius: 12px;
+}
+.account-user-settings-line12 {
+  top: 0px;
+  left: 0px;
+  width: 395px;
+  height: 1px;
+  position: absolute;
+}
+.account-user-settings-group7 {
+  top: 231px;
+  left: 16px;
+  width: 395px;
+  height: 31.000003814697266px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.account-user-settings-rectangle93 {
+  top: 9px;
+  left: 357.14312744140625px;
+  width: 20px;
+  height: 5px;
+  position: absolute;
+  border-radius: 12px;
+}
+.account-user-settings-rectangle103 {
+  top: 27.86751937866211px;
+  left: 354.4952697753906px;
+  width: 19px;
+  height: 6px;
+  position: absolute;
+  border-radius: 12px;
+}
+.account-user-settings-line13 {
+  top: 0px;
+  left: 0px;
+  width: 395px;
+  height: 1px;
+  position: absolute;
+}
+.account-user-settings-group8 {
+  top: 271px;
+  left: 16px;
+  width: 395px;
+  height: 31.000003814697266px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.account-user-settings-rectangle94 {
+  top: 9px;
+  left: 357.14312744140625px;
+  width: 20px;
+  height: 5px;
+  position: absolute;
+  border-radius: 12px;
+}
+.account-user-settings-rectangle104 {
+  top: 27.86751937866211px;
+  left: 354.4952697753906px;
+  width: 19px;
+  height: 6px;
+  position: absolute;
+  border-radius: 12px;
+}
+.account-user-settings-line14 {
+  top: 0px;
+  left: 0px;
+  width: 395px;
+  height: 1px;
+  position: absolute;
+}
+.account-user-settings-group9 {
+  top: 311px;
+  left: 16px;
+  width: 395px;
+  height: 31.000003814697266px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.account-user-settings-rectangle95 {
+  top: 9px;
+  left: 357.14312744140625px;
+  width: 20px;
+  height: 5px;
+  position: absolute;
+  border-radius: 12px;
+}
+.account-user-settings-rectangle105 {
+  top: 27.86751937866211px;
+  left: 354.4952697753906px;
+  width: 19px;
+  height: 6px;
+  position: absolute;
+  border-radius: 12px;
+}
+.account-user-settings-line15 {
+  top: 0px;
+  left: 0px;
+  width: 395px;
+  height: 1px;
+  position: absolute;
+}
+.account-user-settings-group10 {
+  top: 355px;
+  left: 16px;
+  width: 395px;
+  height: 31.000003814697266px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.account-user-settings-rectangle96 {
+  top: 9px;
+  left: 357.14312744140625px;
+  width: 20px;
+  height: 5px;
+  position: absolute;
+  border-radius: 12px;
+}
+.account-user-settings-rectangle106 {
+  top: 27.86751937866211px;
+  left: 354.4952697753906px;
+  width: 19px;
+  height: 6px;
+  position: absolute;
+  border-radius: 12px;
+}
+.account-user-settings-line16 {
+  top: 0px;
+  left: 0px;
+  width: 395px;
+  height: 1px;
+  position: absolute;
+}
+.account-user-settings-text02 {
+  top: 160px;
+  left: 37px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 110.00000238418579%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.account-user-settings-text04 {
+  top: 240px;
+  left: 37px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 110.00000238418579%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.account-user-settings-text06 {
+  top: 280px;
+  left: 37px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 110.00000238418579%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.account-user-settings-text08 {
+  top: 320px;
+  left: 38px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 110.00000238418579%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.account-user-settings-text10 {
+  top: 364px;
+  left: 37px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 110.00000238418579%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.account-user-settings-text12 {
+  top: 123px;
+  left: 37px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 110.00000238418579%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.account-user-settings-text14 {
+  top: 200px;
+  left: 38px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 110.00000238418579%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.account-user-settings-screenshot20240312at1583 {
+  top: 789px;
+  left: 75px;
+  width: 279px;
+  height: 111px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.account-user-settings-screenshot20240312at15831 {
+  top: 0px;
+  left: 0px;
+  width: 279px;
+  height: 111px;
+  position: absolute;
+}
